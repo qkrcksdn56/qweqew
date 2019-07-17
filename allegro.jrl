@@ -1,0 +1,20 @@
+\t (00:00:01) allegro 16.6 S034 (v16-6-112CQ) Windows 32
+\t (00:00:01)     Journal start - Wed Jul 17 11:59:56 2019
+\t (00:00:01)         Host=USER-PC User=user Pid=2388 CPUs=4
+\t (00:00:01) CmdLine= allegro.exe -p .
+\t (00:00:01) 
+   (00:00:01) ilinit Start.
+   (00:00:01) "C:/Users/user/Downloads/vscode_orcad/home/pcbenv"
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 1627
+\i (00:00:03) trapsize 1598
+\i (00:00:03) trapsize 1632
+\i (00:00:03) trapsize 1442
+\i (00:00:03) trapsize 2685
+\i (00:00:04) generaledit 
+\i (00:00:08) open 
+\i (00:00:15) fillin "C:\Users\user\Desktop\workspace\samples\layout_samples_r02\layout_samples_r02\demo\finished.brd"
+\i (00:00:15) cd "C:\Users\user\Desktop\workspace\samples\layout_samples_r02\layout_samples_r02\demo"
+\t (00:00:15) Opening existing design...
+\i (00:00:15) trapsize 662
+\t (00:00:15)     Journal end - Wed Jul 17 12:00:10 2019
